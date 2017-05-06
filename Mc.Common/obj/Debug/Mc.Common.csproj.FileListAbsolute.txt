@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\1\mcDemo\Mc.Common\bin\Debug\Mc.Common.dll
+C:\Documents and Settings\Administrator\桌面\1\mcDemo\Mc.Common\bin\Debug\Mc.Common.pdb
+C:\Documents and Settings\Administrator\桌面\1\mcDemo\Mc.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\1\mcDemo\Mc.Common\obj\Debug\Mc.Common.dll
+C:\Documents and Settings\Administrator\桌面\1\mcDemo\Mc.Common\obj\Debug\Mc.Common.pdb
+D:\我的备份111\curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.dll
+D:\我的备份111\curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.pdb
+D:\我的备份111\curd\mcDemo\Mc.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\我的备份111\curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.dll
+D:\我的备份111\curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.pdb
+D:\我的备份11111\curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.dll
+D:\我的备份11111\curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.pdb
+D:\我的备份11111\curd\mcDemo\Mc.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\我的备份11111\curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.dll
+D:\我的备份11111\curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.pdb
+F:\myFirstDemo\curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.dll
+F:\myFirstDemo\curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.pdb
+F:\myFirstDemo\curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.dll
+F:\myFirstDemo\curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.pdb
+D:\BaiduYunDownload\111\easyUI_curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.dll
+D:\BaiduYunDownload\111\easyUI_curd\mcDemo\Mc.Common\bin\Debug\Mc.Common.pdb
+D:\BaiduYunDownload\111\easyUI_curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.csprojResolveAssemblyReference.cache
+D:\BaiduYunDownload\111\easyUI_curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.dll
+D:\BaiduYunDownload\111\easyUI_curd\mcDemo\Mc.Common\obj\Debug\Mc.Common.pdb

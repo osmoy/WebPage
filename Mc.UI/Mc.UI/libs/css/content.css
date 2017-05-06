@@ -1,0 +1,50 @@
+
+
+/*新闻中心*/
+.news_banner{width:100%; height:252px; background:#2585AD; text-align:center;}
+.news_content_left{width:250px; background:#F5F5F5; padding:20px 0px; position:relative; top:-60px;}
+.content_left_title{text-align:center; margin-bottom:20px;}
+.content_left_title_1{font-size:16px; color:#4CB9FF;}
+.content_left_title_2{color:#787878; line-height:14px;}
+.content_left_nav{width:225px; margin:0 auto; background:#4CB9FE; _height:150px;  min-height:150px;}
+.content_left_nav a{display:block; height:40px; line-height:40px; text-align:right; color:#fff; padding-right:60px; background:url(../images/news_1.jpg) 180px 14px no-repeat; }
+a.content_left_nav_one{background:url(../images/news_1_1.jpg) 180px 14px no-repeat; background-color:#BEE6FF; color:#666; }
+.content_left_nav a:hover{background:url(../images/news_1_1.jpg) 180px 14px no-repeat; background-color:#BEE6FF; color:#666; }
+
+.news_content_right{width:700px; float:right; color:#6F6F6F; background:#f8f8f8; padding:0 20px; padding-bottom:50px;}
+.news_content_right_title{border-bottom:1px solid #dedede; margin-top:20px;}
+.news_content_right_ul li{padding:10px 0px; border-bottom:1px dashed #dedede; height:40px; clear:both;}
+.news_content_right_title span{font-size:14px; border-bottom:2px solid #4CB9FE;}
+.news_p_1{background:url(../images/news_li_bg.jpg) no-repeat; width:70px; height:40px; margin-right:10px;}
+.news_span_1{display:block; height:14px; line-height:14px; font-size:14px; text-align:center; width:60px; color:#fff; margin-top:5px; font-weight:bold;}
+.news_span_2{display:block; width:60px; text-align:center; color:#fff;  height:12px; line-height:12px; margin-top:3px;}
+.news_a{display:block; height:40px; line-height:40px; color:#A1A1A1;}
+.news_a:hover{color:#4CB9FE;}
+
+/*分页*/
+.page{ width:1200px ; height:40px ; }
+.page a{ display:block ; width:40px ; height:40px ; line-height:40px ; text-align:center ; float:left ; background:#fff ; color:#999999 ; margin-right:10px }
+.page a:hover{ background:#999 ; color:#fff}
+.page .current2{ background:#42cbfe ; color:#fff}
+
+/*新闻详情*/
+.news_xiangqing{width:640px; margin:0 auto; background:#f8f8f8; padding:0px 50px 50px 50px;}
+.news_xiangqing_title{font-size:26px; text-align:center; height:70px ; line-height:70px; border-bottom:1px solid #dedede; overflow:hidden;}
+.news_xiangqing_shijian{height:30px; line-height:30px; text-align:center; border-bottom:1px solid #dedede;}
+.news_xiangqing_pic img{width:640px; margin-top:30px;}
+.news_xiangqing_p p{margin-top:20px;}
+
+/*项目案例*/
+.case_ul{width:765px;}
+.case_ul li{margin-top:20px; margin-right:20px; float:left;}
+.case_ul li img{border:1px solid #dedede;}
+.case_ul li a{text-align:center; margin-top:10px; display:block; color:#6F6F6F;}
+.case_ul li a:hover{color:#4CB9FF;}
+
+/*联系我们*/
+.contact_fangshi{margin-top:50px;}
+.contact_fangshi_L_title{font-size:14px; font-weight:bold;}
+.contact_ditu img{width:650px; margin-top:50px;}
+
+
+

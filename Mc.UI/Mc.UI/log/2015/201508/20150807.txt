@@ -1,0 +1,133 @@
+
+ 
+记录时间：2015-08-07 08:50:31,468 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessUser property: [(null)] - 
+错误描述：被准备语句 '(@title nvarchar(1),@author nvarchar(1),@addtime datetime,@linka' 需要参数 @linkaddress，但未提供该参数。
+ 
+
+ 
+记录时间：2015-08-07 08:50:36,640 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessUser property: [(null)] - 
+错误描述：被准备语句 '(@title nvarchar(1),@author nvarchar(1),@addtime datetime,@linka' 需要参数 @linkaddress，但未提供该参数。
+ 
+
+ 
+记录时间：2015-08-07 08:50:52,828 
+线程ID:[4] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessUser property: [(null)] - 
+错误描述：被准备语句 '(@title nvarchar(1),@author nvarchar(1),@addtime datetime,@linka' 需要参数 @linkaddress，但未提供该参数。
+ 
+
+ 
+记录时间：2015-08-07 08:52:41,781 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessUser property: [(null)] - 
+错误描述：被准备语句 '(@title nvarchar(1),@author nvarchar(1),@addtime datetime,@linka' 需要参数 @linkaddress，但未提供该参数。
+ 
+
+ 
+记录时间：2015-08-07 11:33:16,718 
+线程ID:[4] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：必须声明变量 '@Id'。
+ 
+
+ 
+记录时间：2015-08-07 15:57:02,062 
+线程ID:[4] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：被准备语句 '(@Title nvarchar(2),@Content nvarchar(2),@ImgPath nvarchar(4000)' 需要参数 @ImgPath，但未提供该参数。
+ 
+
+ 
+记录时间：2015-08-07 16:11:35,750 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：被准备语句 '(@Title nvarchar(2),@Content nvarchar(2),@ImgPath nvarchar(4000)' 需要参数 @ImgPath，但未提供该参数。
+ 
+
+ 
+记录时间：2015-08-07 16:13:30,281 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：将截断字符串或二进制数据。
+语句已终止。
+ 
+
+ 
+记录时间：2015-08-07 16:13:33,281 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：将截断字符串或二进制数据。
+语句已终止。
+ 
+
+ 
+记录时间：2015-08-07 16:13:35,234 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：将截断字符串或二进制数据。
+语句已终止。
+ 
+
+ 
+记录时间：2015-08-07 16:13:36,265 
+线程ID:[13] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：将截断字符串或二进制数据。
+语句已终止。
+ 
+
+ 
+记录时间：2015-08-07 16:14:55,781 
+线程ID:[8] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：将截断字符串或二进制数据。
+语句已终止。
+ 
+
+ 
+记录时间：2015-08-07 16:54:01,843 
+线程ID:[4] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：必须声明变量 '@Id'。
+ 
+
+ 
+记录时间：2015-08-07 16:58:14,125 
+线程ID:[11] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：必须声明变量 '@Id'。
+ 
+
+ 
+记录时间：2015-08-07 17:05:46,765 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：必须声明变量 '@Id'。
+ 
+
+ 
+记录时间：2015-08-07 17:09:07,218 
+线程ID:[12] 
+日志级别：  ERROR 
+出错类：Mc.UI.admin.ashx.ProcessCase property: [(null)] - 
+错误描述：必须声明变量 '@Id'。
+ 

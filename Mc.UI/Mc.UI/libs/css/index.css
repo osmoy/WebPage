@@ -1,0 +1,57 @@
+
+
+
+/*banner*/
+.banner{
+	width:100% ; 
+	height:504px ;
+	background:#3e3d49 ;
+}
+.DB_tab25 { width:100% ; height:504px ; position:relative ; overflow:hidden ; }
+.DB_tab25 .DB_bgSet{ position:relative ; }
+.DB_tab25 .DB_bgSet li{ position:absolute ; width:100% ; height:504px ; display:none ; }
+.DB_tab25 .DB_imgSet{ position:absolute ; width:960px ;left:50% ; margin-left:-480px ; }
+.DB_tab25 .DB_imgSet a{ }
+
+.DB_tab25 .DB_menuWrap{ position:absolute ; width:960px ; left:50% ; margin-left:-480px ; }
+.DB_tab25 .DB_menuWrap .DB_menuSet{ position:absolute ; width:100% ; top:460px ; text-align:center ; height:17px;}
+.DB_tab25 .DB_menuWrap .DB_menuSet li{cursor:pointer;margin:0 5px ; display:inline}
+.DB_tab25 .DB_prev{position:absolute;left:-100px;top:220px;cursor:pointer;display:none ; width:62px; height:62px;
+ /*background:url(../images/banner-btn.png) left top no-repeat ;*/ background:url(../images/btn_right.png) no-repeat;}
+/*.DB_tab25 .DB_prev:hover{ background:url(../images/banner-btn.png) left bottom no-repeat ;}*/
+.DB_tab25 .DB_next{position:absolute;right:-100px;top:220px;cursor:pointer;display:none; width:62px; height:62px;
+ /*background:url(../images/banner-btn.png) right top no-repeat ;*/ background:url(../images/btn_left.png) no-repeat;}
+/*.DB_tab25 .DB_next:hover{ background:url(../images/banner-btn.png) right bottom no-repeat ;}*/
+
+/*项目案例*/
+.case{margin-top:50px;}
+.case_title{height:35px; line-height:35px; border-bottom:1px solid #E3E3E3; margin-bottom:20px;}
+.case_title p{font-size:14px; color:#494949;}
+.case_title a{color:#4CB9FF; cursor:pointer;}
+.case_title a:hover{text-decoration:underline;}
+
+#wrap{width:1017px; overflow:hidden;}
+#wrap .item1 { width:5000px;}
+.item1 img{vertical-align:top; display:block ;width:237px ; height:152px ; }
+.item1 li{position:relative; margin-right:17px;width:237px;height:152px;overflow:hidden;cursor:pointer ; float:left;}
+.item1 div{position:absolute;left:0;top:250px;width:100%;height:70px;overflow:hidden; background:#000; opacity: 0.6; filter: alpha(opacity=60);}
+.item1 div a{display:block; height:100%; width:100%;}
+.item1 li:hover div{background:url(images/point-black_1.png) repeat;  background:#000; opacity: 0.6; filter: alpha(opacity=60);}
+.item1 p{display:none;margin:5px auto 0;width:100%;line-height:30px;text-align:left;text-indent:0;font-size:18px ; padding-left:21px ;}
+.item1 h3 { height:25px;  font-size:14px; width:237px; text-align:center; position:relative; margin-top:-80px; z-index:-9999; transition:0.5s; display:block;}
+.item1 h3 a{color:#fff;}
+.item1 li:hover h3 {z-index:9999; }
+
+/*关于我们、新闻中心*/
+.about{width:475px;}
+.about_title p span{color:#4CB9FF; font-size:12px; margin-left:5px;}
+.about img{margin-bottom:20px;}
+.about_jieshao{font-size:12px; text-indent:2em;}
+.news_ul li{height:33px; line-height:33px; border-bottom:1px dashed #E3E3E3;}
+.news_ul li a{color:#494949; background:url(../images/li_bg.jpg) 0px 13px no-repeat; padding-left:10px;}
+.news_ul li a:hover{color:#4CB9FF; background:url(../images/li_bg_1.jpg) 0px 13px no-repeat;}
+.news_ul span{color:#494949;}
+
+
+
+

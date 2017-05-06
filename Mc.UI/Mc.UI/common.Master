@@ -1,0 +1,174 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="common.master.cs" Inherits="Mc.UI.common" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server" />
+    </title>
+    <link href="/libs/css/style.reset.css" rel="stylesheet" type="text/css" />
+    <link href="/libs/css/basic.css" rel="stylesheet" type="text/css" />
+    <link href="/libs/css/content.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/libs/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/libs/js/nav.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+</head>
+<body>
+    <div>
+        <div class="header w1000">
+            <div class="logo fl mt20">
+                <img src="/libs/images/logo.jpg" /></div>
+            <!--nav-->
+            <div id="menu" class="fr">
+                <div id="midnav">
+                    <ul id="navc">
+                        <li id="moved" style="margin-left: 0;">
+                            <img src="/libs/images/nav_bg.png" width="78" height="120" /></li>
+                        <li class="navitem"><a href="index.aspx">
+                            <p>
+                                &nbsp;</p>
+                            <p class="STYLE1">
+                                H</p>
+                            首页</a> </li>
+                        <li id="navactive" class="navfi navitem"><a href="/AboutUs.aspx" title="关于我们">
+                            <p>
+                                &nbsp;</p>
+                            <p class="STYLE1">
+                                A</p>
+                            关于我们</a> </li>
+                        <li class="navitem"><a href="/News.aspx" title="新闻中心">
+                            <p>
+                                &nbsp;</p>
+                            <p class="STYLE1">
+                                N</p>
+                            新闻中心</a> </li>
+                        <li class="navitem"><a href="/Case.aspx" title="项目案例">
+                            <p>
+                                &nbsp;</p>
+                            <p class="STYLE1">
+                                C</p>
+                            项目案例</a> </li>
+                        <li class="navitem"><a href="/Service.aspx" title="真诚服务">
+                            <p>
+                                &nbsp;</p>
+                            <p class="STYLE1">
+                                S</p>
+                            真诚服务</a> </li>
+                        <li class="navitem"><a href="/ContactUs.aspx" title="联系我们">
+                            <p>
+                                &nbsp;</p>
+                            <p class="STYLE1">
+                                C</p>
+                            联系我们</a> </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <!--banner-->
+        <div class="news_banner">
+            <img src="/libs/images/news_banner.jpg" alt="图片" />
+        </div>
+        <div class="news_content w1000">
+            <%------------内容展示区域-----------%>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <!--foot-->
+    <div class="foot_nav mt80">
+        <div class="w1000">
+            <div class="foot_nav_1 fl">
+                <p class="foot_nav_1_title">
+                    关于我们</p>
+                <p>
+                    <a href="#">新闻资讯 </a>
+                </p>
+                <p>
+                    <a href="#">行业新闻 </a>
+                </p>
+                <p>
+                    <a href="#">蒙建观点 </a>
+                </p>
+                <p>
+                    <a href="#">保姆服务 </a>
+                </p>
+            </div>
+            <div class="foot_nav_1 fl">
+                <p class="foot_nav_1_title">
+                    新闻中心</p>
+                <p>
+                    <a href="#">蒙建新闻 </a>
+                </p>
+                <p>
+                    <a href="#">蒙建文化 </a>
+                </p>
+                <p>
+                    <a href="#">蒙建客户 </a>
+                </p>
+                <p>
+                    <a href="#">蒙建荣誉 </a>
+                </p>
+            </div>
+            <div class="foot_nav_1 fl">
+                <p class="foot_nav_1_title">
+                    项目案例</p>
+                <p>
+                    <a href="#">蒙建努力 </a>
+                </p>
+                <p>
+                    <a href="#">我们是谁 </a>
+                </p>
+                <p>
+                    <a href="#">蒙建技术 </a>
+                </p>
+                <p>
+                    <a href="#">蒙建实力 </a>
+                </p>
+            </div>
+            <div class="foot_nav_1 fl">
+                <p class="foot_nav_1_title">
+                    真诚服务</p>
+                <p>
+                    <a href="#">服务方向 </a>
+                </p>
+                <p>
+                    <a href="#">服务类型 </a>
+                </p>
+                <p>
+                    <a href="#">服务态度 </a>
+                </p>
+                <p>
+                    <a href="#">服务要求 </a>
+                </p>
+            </div>
+            <div class="foot_nav_1 fl">
+                <p class="foot_nav_1_title">
+                    期待关注</p>
+                <div class="qidai_a">
+                    <a class="qidai_a_1" href="#">新浪微博</a> <a class="qidai_a_2" href="#">腾讯微博</a> <a
+                        class="qidai_a_3" href="#">官方微信</a>
+                    <div class="clear">
+                    </div>
+                </div>
+                <div class="phone">
+                    联系我们：<span>0551-12345678</span></div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    <div class="foot_bottom w1000">
+        <p>
+            经营许可证ICP：皖B1.B2-20100089 备案ICP：皖B2-20060041号-1
+        </p>
+        <p>
+            Copyright © 2004-2015, 八度网络 版权所有
+        </p>
+    </div>
+    <asp:ContentPlaceHolder ID="script" runat="server" />
+</body>
+</html>

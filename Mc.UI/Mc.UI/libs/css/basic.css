@@ -1,0 +1,35 @@
+.header{height:120px; overflow:hidden;}
+/*nav*/
+#menu{ height:120px; }
+#midnav{ /*width:700px;*/ height:120px; }
+#navc{ float:left;  position:relative; height:120px; /*width:700px;*/z-index:22;}
+#navc li{ float:left; display:inline;width:78px; height:120px; line-height:26px; display:block; text-align:center; position:relative;  margin-left:9px; _margin-left:8px ; overflow:hidden;}
+#navc li p{ margin-bottom:5px;}
+#navc li.navfi{ width:78px;}
+#navc li#moved{ position:absolute; top:0; z-index:-99; left:0px; width:78px; height:120px; }
+#navc li a{color:#666;text-align:center; display:block; position:relative; z-index:9999;width:78px; height:120px; font-size:14px;}
+#navc li a:hover{color:#fff; text-decoration:none; background:#4CB9FF;}
+#navc li div{ width:78px; height:auto;position:absolute; left:0; top:100%; z-index:98; display:none ;}
+#navc li div ul{ width:78px; height:auto; float:left; padding:10px 0;  background:#fff; }
+#navc li div ul li{ width:78px; height:28px; line-height:28px;font-size:12px;  margin-left:0 }
+#navc li div ul li a{color:#8e8e8e; display:block ; _height:28px; }
+#navc li div ul li a:hover{color:#494949; height:28px;_height:28px; background:none }
+#navc li#navactive a{color:#fff; background:#4CB9FF;}
+p.STYLE1{font-size:30px; color:#fff;}
+
+
+/*foot*/
+.foot_nav{ width:100%; height:230px; overflow:hidden; background:#F8F8F8;}
+.foot_nav_1{margin-top:60px; width:200px; overflow:hidden;}
+.foot_nav_1_title{font-size:14px; color:#494949;}
+.foot_nav_1 a{color:#494949;}
+.foot_nav_1 a:hover{color:#4CB9FF;}
+.qidai_a{width:210px; margin-top:10px;}
+.qidai_a a{width:50px; height:20px;  float:left; text-align:center; padding-top:25px; margin-right:20px;}
+.qidai_a_1{background:url(../images/xinlang.jpg) 10px 0 no-repeat;}
+.qidai_a_2{background:url(../images/tengxun.jpg) 10px 0 no-repeat;}
+.qidai_a_3{background:url(../images/weixin.jpg) 10px 0 no-repeat;}
+.phone{background:url(../images/phone.jpg)0 3px no-repeat; color:#494949; padding-left:25px; margin-top:10px;}
+.phone span{color:#4CB9FF;}
+.foot_bottom{padding:40px;}
+.foot_bottom p{ color:#8c8c8c; text-align:center;}
